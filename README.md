@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for interacting with PostHog. Create annotations and manage projects directly through Claude Desktop!
 
+<a href="https://glama.ai/mcp/servers/zkqzx42bi8">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/zkqzx42bi8/badge" alt="PostHog Server MCP server" />
+</a>
+
 ## Features 🚀
 
 - **List Projects**: View all available PostHog projects in your organization
@@ -93,7 +97,6 @@ Using the Project ID you get from the list of projects, ask Claude:
 
 ```
 "Create a PostHog annotation in project 53497 saying 'Deployed v1.2.3'"
-
 ```
 
 or with a specific date:
